@@ -12,7 +12,7 @@
 .vs/
 
 # Build results
-
+# Build results
 *.sln.ide/
 [Dd]ebug/
 [Rr]elease/
